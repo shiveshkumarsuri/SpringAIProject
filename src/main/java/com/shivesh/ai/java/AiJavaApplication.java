@@ -1,4 +1,4 @@
-package com.shivesh.ai_java;
+package com.shivesh.ai.java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

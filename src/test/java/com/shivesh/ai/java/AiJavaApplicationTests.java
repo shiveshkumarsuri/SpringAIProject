@@ -1,4 +1,4 @@
-package com.shivesh.ai_java;
+package com.shivesh.ai.java;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

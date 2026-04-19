@@ -1,4 +1,4 @@
-package com.shivesh.ai_java.controllers;
+package com.shivesh.ai.java.controllers;
 
 import org.springframework.ai.google.genai.GoogleGenAiChatModel;
 import org.springframework.http.ResponseEntity;
